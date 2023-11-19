@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "6d41e99266dc3689",
+    "type": "split",
+    "children": [
+      {
+        "id": "0adfde4f27c1dbb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99e0fdf7344d56be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Програмирование/Python/Работа с файлами.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c19f64f04f4124c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "349d243dc2a19794",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72bfc55257acc279",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e9f347469c6ce770",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9f2a0b6477f3ed9d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f96602e154a24fb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea14d981d8c2b094",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddfbaabaa6c0bc93",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Програмирование/Python/Работа с файлами.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "af6cd38ed83eff89",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Програмирование/Python/Работа с файлами.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "189ac69ce738805e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "45fe6d64fe3c1781",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Програмирование/Python/Работа с файлами.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "99e0fdf7344d56be",
+  "lastOpenFiles": [
+    "Програмирование/C/Работа с файлами.md",
+    "Програмирование/C/Строки.md",
+    "Програмирование/Python/Работа с файлами.md",
+    "Програмирование/Python/Условные операторы.md",
+    "Програмирование/Python/Функциональное программирование в Python.md",
+    "Програмирование/Python/Операции с функциями.md",
+    "Програмирование/Python/Функции.md",
+    "Програмирование/Python/Примеры кода/Задание ЕГЭ №26.md",
+    "Програмирование/Python/Циклы.md",
+    "Програмирование/Python/Операторы.md",
+    "Програмирование/Python/Консольный ввод и вывод.md",
+    "Програмирование/Python/Введение в пайтон.md",
+    "ЕГЭ/Информатика/Графы.md",
+    "ЕГЭ/Информатика/Примеры решения задач ЕГЭ/Задание ЕГЭ №26.md",
+    "photo/Pasted image 20231119193832.png",
+    "ЕГЭ/Информатика/Примеры решения задач ЕГЭ",
+    "Програмирование/C/Типы данных/Memsize-типы.md",
+    "Програмирование/C/Арифметика.md",
+    "Програмирование/C/Типы данных/Битовые поля.md",
+    "Програмирование/C/Заголовочный файл и файл реализации.md",
+    "Програмирование/C/Typedef.md",
+    "Програмирование/C/Типы данных/Массивы.md",
+    "Програмирование/C/Типы данных/Объединения.md",
+    "Програмирование/C/Типы данных/Перечисления.md",
+    "Програмирование/C/Типы данных/Структуры.md",
+    "Програмирование/C/Типы данных/Типы данных.md",
+    "Програмирование/C/Типы данных/Указатели.md",
+    "Програмирование/C/Типы данных/Базовые типы данных.md",
+    "photo/Pasted image 20231118163344.png",
+    "Програмирование/Python/PyGame",
+    "photo/Pasted image 20231107144815.png",
+    "photo/Pasted image 20231107144824.png",
+    "photo/Pasted image 20231107144805.png",
+    "photo/Pasted image 20231107144802.png",
+    "photo/Pasted image 20231107144744.png",
+    "Програмирование/Python/Примеры кода",
+    "Програмирование/Python",
+    "Pasted image 20231024214540.png",
+    "Pasted image 20231024193100.png",
+    "Програмирование/Csharp",
+    "Програмирование/С/Без названия",
+    "ЕГЭ",
+    "Програмирование/Общие концепции",
+    "Програмирование",
+    "Програмирование/C/Типы данных",
+    "photo/Pasted image 20230803221106.png"
+  ]
+}
